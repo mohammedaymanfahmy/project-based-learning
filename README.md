@@ -8,8 +8,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Table of Contents:
 
-- [C#](#c)
+- [Assembly](#Assembly)
 - [C/C++](#cc)
+- [C#](#c)
 - [Clojure](#clojure)
 - [Dart](#dart)
 - [Elixir](#elixir)
@@ -31,6 +32,16 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Scala](#scala)
 - [Swift](#swift)
 - [Additional resources](#additional-resources)
+
+## Assembly:
+- [Learn basics of Assembly](https://github.com/D-Sensei/ASM/tree/main/Basics)
+- Projects
+  - [Build a Calculator](https://github.com/D-Sensei/ASM/tree/main/Calculator)
+  - [Create a Parking Mangement system](https://github.com/D-Sensei/ASM/tree/main/Parking-Management-System)
+  - [Build a Ticktactoe game](https://github.com/D-Sensei/ASM/tree/main/Ticktactoe)
+  - [Digital Clock](https://github.com/D-Sensei/ASM/tree/main/digital-lock)
+- [Resource/Books](https://github.com/D-Sensei/ASM/blob/main/Resources/Books.md)
+- [Installations](https://github.com/D-Sensei/ASM/blob/main/README.md)
 
 ## C/C++:
 
@@ -207,6 +218,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a Simple HTTP Server with Java](http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html)
 - [Build an Android Flashlight App](https://www.youtube.com/watch?v=dhWL4DC7Krs) (video)
 - [Build a Spring Boot App with User Authentication](https://spring.io/guides/gs/securing-web/)
+- [Build a simple form submission](https://spring.io/guides/gs/handling-form-submission)
+- [Fetch data using MySQL](https://spring.io/guides/gs/accessing-data-mysql)
+- [Code a 2D Game Engine using Java - Full Course for Beginners](https://www.youtube.com/watch?v=025QFeZfeyM)
 
 ## JavaScript:
 
@@ -233,6 +247,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 #### React:
 
 - [Create Serverless React.js Apps](http://serverless-stack.com/)
+- [Create a Spotify clone](https://github.com/kashan16/Musique)
 - [Create a Trello Clone](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
 - [Create a Character Voting App with React, Node, MongoDB and SocketIO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio)
 - [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
@@ -293,12 +308,13 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - How to build your own Uber-for-X App using JavaScript, Node.JS, MongoDB and Web Sockets
   - [Part 1](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app/)
   - [Part 2](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app-part-2/)
+- [Build a UserService with Microservice architecture using Node, Express framework and Mongodb database]
 
 #### Vue
 
 - [Vue 2 + Firebase: How to build a Vue app with Firebase authentication system in 15 minutes](https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c)
 - [Vue.js Application Tutorial – Creating a Simple Budgeting App with Vue](https://matthiashager.com/complete-vuejs-application-tutorial/)
-- [Build a Blog with Vue, GraphQL and Apollo](https://scotch.io/tutorials/build-a-blog-with-vue-graphql-and-apollo-client)
+- [Build a Blog with Vue, GraphQL and Apollo](https://www.digitalocean.com/community/tutorials/how-to-build-a-blog-with-vue-graphql-and-apollo-client)
 - Build a full stack web application using MEVN (MongoDB, Express, Vue, Node) stack
   - [Part 1](https://medium.com/@anaida07/mevn-stack-application-part-1-3a27b61dcae0)
   - [Part 2](https://medium.com/@anaida07/mevn-stack-application-part-2-2-9ebcf8a22753)
@@ -372,9 +388,17 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Scrape a Website with Scrapy and MongoDB](https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/)
 - [How To Scrape With Python and Selenium WebDriver](http://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/)
 - [Which Movie Should I Watch using BeautifulSoup](https://medium.com/@nishantsahoo.in/which-movie-should-i-watch-5c83a3c0f5b1)
+- [5 Web Scraping Projects with Python](https://amankharwal.medium.com/5-web-scraping-projects-with-python-4bcc25ff039)
+- [Scraping GitHub Profile using Python](https://thecleverprogrammer.com/2022/05/05/scraping-github-profile-using-python/)
+- [Scrape Table from a Website using Python](https://thecleverprogrammer.com/2022/03/10/scrape-table-from-a-website-using-python/)
+- [Web Scraping to Create a Dataset using Python](https://thecleverprogrammer.com/2021/05/14/web-scraping-to-create-a-dataset-using-python/)
+- [Scrape IMDb using Python](https://thecleverprogrammer.com/2021/06/02/scrape-imdb-using-python/)
+- [Scrape Trending News using Python](https://thecleverprogrammer.com/2021/05/10/scrape-trending-news-using-python/)
+- [Scrape Wikipedia With Python](https://thecleverprogrammer.com/2020/08/10/scrape-wikipedia-with-python/)
 
 ### Web Applications:
 
+- [Turning a Website into an API with BeautifulSoup and FastAPI](https://dev.to/niklastiede/building-an-api-with-fastapi-1iji)
 - [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - [Create a Blog Web App In Django](https://tutorial.djangogirls.org/en/)
 - [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
@@ -384,6 +408,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Microservices with Docker, Flask, and React](https://testdriven.io/)
 - [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
 - [Create A Django API in under 20 minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
+- [Building an Interactive Question Answering App with Streamlit, Transformers, and Langchain WikipediaAPIWrapper](https://medium.com/@anoopjohny2000/building-an-interactive-question-answering-app-with-streamlit-transformers-and-langchain-13b338cfe534)
 - Build a Community-driven delivery application with Django, Postgres and JavaScript
   - [Part 1](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead/)
   - [Part 2](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2/)
@@ -394,6 +419,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4](https://danidee10.github.io/2018/01/10/realtime-django-4.html)
   - [Part 5](https://danidee10.github.io/2018/01/13/realtime-django-5.html)
   - [Part 6](https://danidee10.github.io/2018/03/12/realtime-django-6.html)
+- [Python API development and CI/CD pipelines with FastAPI, Docker and More](https://www.youtube.com/watch?v=0sOvCWFmrtA) (video)
+- [Full Stack Web App (Spotify Music Controller App) with Django and React](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j) (Video Playlist)
 
 ### Bots:
 
@@ -422,6 +449,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Step-By-Step Machine Learning In Python](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 - [Predict Quality Of Wine](https://medium.freecodecamp.org/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d)
 - [Solving A Fruits Classification Problem](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
+- [Simple Machine Learning Projects](https://github.com/MahdiMashayekhi-AI/Machine-Learning-Projects)
 - [Learn Unsupervised Learning with Python](https://scikit-learn.org/stable/unsupervised_learning.html)
 - [Build Your Own Neural Net from Scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 - [Linear Regression in Python without sklearn](https://medium.com/we-are-orb/linear-regression-in-python-without-scikit-learn-50aef4b8d122)
@@ -500,7 +528,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Transfer Learning for Image Classification using Keras](https://towardsdatascience.com/transfer-learning-for-image-classification-using-keras-c47ccf09c8c8)
 - [Code a Smile Classifier using CNNS in Python](https://github.com/kylemcdonald/SmileCNN)
 - [Natural Language Processing using scikit-learn](https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e)
-- [Code a Taylor Swift Lyrics Generator](https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e)
 - [Mask detection using PyTorch Lightning](https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61)
 
 ### Miscellaneous:
@@ -515,9 +542,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 1](https://blog.asrpo.com/making_a_low_level_debugger)
   - [Part 2: C](https://blog.asrpo.com/making_a_low_level_debugger_part_2)
 - Implementing a Search Engine
-  - [Part 1](http://www.ardendertat.com/2011/05/30/how-to-implement-a-search-engine-part-1-create-index/)
-  - [Part 2](http://www.ardendertat.com/2011/05/31/how-to-implement-a-search-engine-part-2-query-index/)
-  - [Part 3](http://www.ardendertat.com/2011/07/17/how-to-implement-a-search-engine-part-3-ranking-tf-idf/)
+  - [Part 1](https://web.archive.org/web/20210614081424/http://www.ardendertat.com/2011/05/30/how-to-implement-a-search-engine-part-1-create-index/)
+  - [Part 2](https://web.archive.org/web/20210614063216/http://www.ardendertat.com/2011/05/31/how-to-implement-a-search-engine-part-2-query-index/)
+  - [Part 3](https://web.archive.org/web/20210615041205/http://www.ardendertat.com/2011/07/17/how-to-implement-a-search-engine-part-3-ranking-tf-idf/)
 - [Build the Game of Life](https://robertheaton.com/2018/07/20/project-2-game-of-life/)
 - [Create terminal ASCII art](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/)
 - [Write a Tic-Tac-Toe AI](https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/)
@@ -566,6 +593,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Building a TCP Chat in Go(video)](https://www.youtube.com/watch?v=Sphme0BqJiY)
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 - [REST API masterclass with Go, PostgreSQL and Docker(video playlist)`in progress`](https://www.youtube.com/watch?v=rx6CPDK_5mU&list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
+- [Building a beginner friendly project in Go](https://www.youtube.com/watch?v=jFfo23yIWac)
+- [Golang Restaurant Management Backend Project](https://www.youtube.com/watch?v=uhQJAZE6KTQ)
 
 ## PHP:
 
@@ -583,7 +612,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 5: Testing](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-2-unit-tests-96d6dfbf0617)
   - [Part 6: User Profile](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-5-user-profile-5c3d0c655f3a)
   - [Part 7: Deployment](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-7-deployment-40bb3c895627)
-- [Build a Laravel CRUD Application From Scratch](https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)
+- [Build a Laravel CRUD Application From Scratch]([[https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/](https://web.archive.org/web/20220802155617/https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)](https://web.archive.org/web/20220802155617/https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/))
+- [Docker and PHP Full Course](https://www.youtube.com/playlist?list=PLQH1-k79HB396mS8xRQ5gih5iqkQw-4aV)
 
 ## OCaml:
 
@@ -669,3 +699,5 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Enlight](https://enlight.nyc/)
 - [Hack Club Workshops](https://hackclub.com/workshops/)
 - [CodeCrafters](https://codecrafters.io/)
+- [Documentation](https://devdocs.io/)
+- [Full Stack Open](https://fullstackopen.com/en)
