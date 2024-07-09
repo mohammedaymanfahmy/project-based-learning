@@ -9,6 +9,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Table of Contents:
 
 - [Assembly](#Assembly)
+- [AWS](#aws)
 - [C/C++](#cc)
 - [C#](#c)
 - [Clojure](#clojure)
@@ -21,6 +22,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [HTML/CSS](#html-and-css)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Julia](#julia)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [OCaml](#ocaml)
@@ -30,10 +32,12 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
+- [SQL](#SQL)
 - [Swift](#swift)
 - [Additional resources](#additional-resources)
 
 ## Assembly:
+
 - [Learn basics of Assembly](https://github.com/D-Sensei/ASM/tree/main/Basics)
 - Projects
   - [Build a Calculator](https://github.com/D-Sensei/ASM/tree/main/Calculator)
@@ -42,6 +46,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Digital Clock](https://github.com/D-Sensei/ASM/tree/main/digital-lock)
 - [Resource/Books](https://github.com/D-Sensei/ASM/blob/main/Resources/Books.md)
 - [Installations](https://github.com/D-Sensei/ASM/blob/main/README.md)
+
+## AWS
+
+- [Zero to Hero Playlist](https://youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&si=vgdbbf84dAXg33GE)
 
 ## C/C++:
 
@@ -115,6 +123,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 6: Input and output](https://briancallahan.net/blog/20210819.html)
   - [Part 7: Arrays](https://briancallahan.net/blog/20210822.html)
   - [Part 8: Strings, forward references, and conclusion](https://briancallahan.net/blog/20210826.html)
+- [Using C to Simulate LC2K](https://github.com/ekmackie1/Use-C-To-Simulate-Your-Own-LC2K/tree/main)
 
 ### Network programming
 
@@ -182,6 +191,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Dart:
 
+- [Official Documentation](https://dart.dev/)
+
 ### Flutter:
 
 - [Amazon Clone with Admin Panel](https://youtu.be/O3nmP-lZAdg)
@@ -221,6 +232,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a simple form submission](https://spring.io/guides/gs/handling-form-submission)
 - [Fetch data using MySQL](https://spring.io/guides/gs/accessing-data-mysql)
 - [Code a 2D Game Engine using Java - Full Course for Beginners](https://www.youtube.com/watch?v=025QFeZfeyM)
+- [Build a simple form submission](https://spring.io/guides/gs/handling-form-submission)
+- [Fetch data using MySQL](https://spring.io/guides/gs/accessing-data-mysql)
 
 ## JavaScript:
 
@@ -230,6 +243,18 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a TicTacToe Game with JavaScript](https://medium.com/javascript-in-plain-english/build-tic-tac-toe-game-using-javascript-3afba3c8fdcc)
 - [Build a Simple Weather App With Vanilla JavaScript](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
 - [Build a Todo List App in JavaScript](https://github.com/dwyl/javascript-todo-list-tutorial)
+- [Build a portfolio website with Javascript, HTML and CSS](https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/)
+- [Build a simple URL shortener with javaScript](https://www.freecodecamp.org/news/building-a-simple-url-shortener-with-just-html-and-javascript-6ea1ecda308c/?source=post_page-----54c80de4f48c--------------------------------)
+- [Build memory game in javascript](https://medium.com/free-code-camp/vanilla-javascript-tutorial-build-a-memory-game-in-30-minutes-e542c4447eae)
+- [Build a count-down timer with javascript](https://hackr.io/blog/how-to-create-a-javascript-countdown-timer)
+- [Build a digital javascript drum kit](https://hackr.io/blog/how-to-build-a-javascript-drum-kit)
+
+## Julia:
+- [Creating software packages with Julia](https://jaantollander.com/post/how-to-create-software-packages-with-julia-language)
+- [Deep learning with Julia: Train a Model using a Neural Network](https://www.freecodecamp.org/news/deep-learning-with-julia)
+- [Your first web app with Julia and Genie.jl](https://www.freecodecamp.org/news/how-to-build-web-apps-in-julia)
+- [Machine learning: How to Build and Deploy a Trained AI Model as a Web Service](https://www.freecodecamp.org/news/machine-learning-using-julia)
+- [Learn Julia by Coding 7 Projects – Hands-On Programming Tutorial](https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/)
 
 ## HTML and CSS:
 
@@ -277,6 +302,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 6](https://www.youtube.com/watch?v=Jvp8j6zrFHE)
   - [Part 7](https://www.youtube.com/watch?v=M_hFfrN8_PQ)
 - [React Phone E-Commerce Project(video)](https://www.youtube.com/watch?v=-edmQKcOW8s)
+- [Build a Secure E-Commerce App with SuperTokens and Hasura GraphQL](https://theankurtyagi.com/build-a-secure-e-commerce-app-with-supertokens-and-hasura-graphql/)
 
 #### Angular:
 
@@ -421,6 +447,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 6](https://danidee10.github.io/2018/03/12/realtime-django-6.html)
 - [Python API development and CI/CD pipelines with FastAPI, Docker and More](https://www.youtube.com/watch?v=0sOvCWFmrtA) (video)
 - [Full Stack Web App (Spotify Music Controller App) with Django and React](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j) (Video Playlist)
+- [Build a Secure Task Management App with React and Appwrite](https://theankurtyagi.com/appwrite/)
 
 ### Bots:
 
@@ -432,6 +459,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 1](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
   - [Part 2](https://khashtamov.com/en/how-to-deploy-telegram-bot-django/)
 - [Create a Twitter Bot In Python](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
+- [Build a Twitter bot for likes and Retweets](https://www.youtube.com/watch?v=ppPKeIDjcCs) (video)
 
 ### Data Science:
 
@@ -442,6 +470,14 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4: Predicting Stock Prices](https://www.youtube.com/watch?v=SSu00IRRraY&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
   - [Part 5: Deep Dream in TensorFlow](https://www.youtube.com/watch?v=MrBzgvUNr4w&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=5)
   - [Part 6: Genetic Algorithms](https://www.youtube.com/watch?v=dSofAXnnFrY&index=6&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+- [End-To-End Data Science Playlist-Get Prepared With Industry Ready Projects](https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
+- [Data Science and Machine Learning with Python and R](https://www.youtube.com/playlist?list=PLZoTAELRMXVOnN_g96ayzXX5i7RRO0QhL)
+- [End To End Data Science Projects 2023](https://www.youtube.com/playlist?list=PLZoTAELRMXVOjQdyqlCmOtq1nZnSsWvag)
+- [Data Science Projects](https://www.youtube.com/playlist?list=PLZoTAELRMXVNUcr7osiU7CCm8hcaqSzGw) 
+
+### Generative AI:
+
+- [Safety Guardrails for LLMs: LLaMA Guard Tutorial](https://colab.research.google.com/drive/1CfF0Bzzkd5VETmhsniksSpekpS-LKYtX)
 
 ### Machine Learning:
 
@@ -459,6 +495,13 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Using BOW, TFIDF and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-bow-tfidf-and-random-forest-c54ad88d1370)
   - [Using Word2Vec and Xgboost](https://towardsdatascience.com/finding-similar-quora-questions-with-word2vec-and-xgboost-1a19ad272c0d)
 - [Detecting Fake News with Python and Machine Learning](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)
+- [Machine Learning 2023](https://www.youtube.com/playlist?list=PLZoTAELRMXVPMbdMTjwolBI0cJcvASePD)
+- [Live Machine Learning](https://www.youtube.com/playlist?list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz)
+- [ML Usecases](https://www.youtube.com/playlist?list=PLZoTAELRMXVPjvhLlo7v6H-emT8tNkRaW)
+- [Machine Learning Interview questions](https://www.youtube.com/playlist?list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCpQdY)
+- [Machine Learning Pipelines](https://www.youtube.com/playlist?list=PLZoTAELRMXVMcRQwR5_J8k9S7cffVFq_U)
+- [Complete Machine Learning playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
+- [Recommendation Systems](https://www.youtube.com/playlist?list=PLZoTAELRMXVN7QGpcuN-Vg35Hgjp3htvi)
 
 ### OpenCV:
 
@@ -529,6 +572,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Code a Smile Classifier using CNNS in Python](https://github.com/kylemcdonald/SmileCNN)
 - [Natural Language Processing using scikit-learn](https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e)
 - [Mask detection using PyTorch Lightning](https://towardsdatascience.com/how-i-built-a-face-mask-detector-for-covid-19-using-pytorch-lightning-67eb3752fd61)
+- [Create your first PPO (Proximal Policy Optimization) in Python: Deep Reinforcement Learning Course in Chinese](https://github.com/opendilab/PPOxFamily)
 
 ### Miscellaneous:
 
@@ -553,6 +597,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Write yourself a Git](https://wyag.thb.lt/)
 - [A Python implementation of a Python bytecode runner](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 - [Create a Voice assistant using Python](https://www.geeksforgeeks.org/voice-assistant-using-python/)
+- [Create a Matrix Screensaver in Python](https://medium.com/@ericvanrees/create-a-matrix-digital-rain-screensaver-with-python-pt-1-ae11e661edef)
+- [How to Build a Full Stack Notes App Using React and Supabase – The Complete Guide](https://theankurtyagi.com/notes-app-react-supabase/)
 
 ## Go:
 
@@ -595,6 +641,25 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [REST API masterclass with Go, PostgreSQL and Docker(video playlist)`in progress`](https://www.youtube.com/watch?v=rx6CPDK_5mU&list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE)
 - [Building a beginner friendly project in Go](https://www.youtube.com/watch?v=jFfo23yIWac)
 - [Golang Restaurant Management Backend Project](https://www.youtube.com/watch?v=uhQJAZE6KTQ)
+- [Go In One Evening - learn Go by creating a real-life projects](https://threedots.tech/go-in-one-evening/?utm_source=project-based-learning)
+- Building a fully functional real-world project with DDD, Clean Architecture, and CQRS
+  - [GitHub Repository with the project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
+  - [Part 1 - Building a serverless application with Go, Google Cloud Run and Firebase](https://threedots.tech/post/serverless-cloud-run-firebase-modern-go-application/?utm_source=project-based-learning)
+  - [Part 2 - A complete Terraform setup of a serverless application on Google Cloud Run and Firebase](https://threedots.tech/post/complete-setup-of-serverless-application/?utm_source=project-based-learning)
+  - [Part 3 - Robust gRPC communication on Google Cloud Run (but not only!)](https://threedots.tech/post/robust-grpc-google-cloud-run/?utm_source=project-based-learning)
+  - [Part 4 - You should not build your own authentication.](https://threedots.tech/post/firebase-cloud-run-authentication/?utm_source=project-based-learning)
+  - [Part 5 - When to avoid DRY in Go](https://threedots.tech/post/things-to-know-about-dry/?utm_source=project-based-learning)
+  - [Part 6 - Introduction to DDD Lite: When microservices in Go are not enough](https://threedots.tech/post/ddd-lite-in-go-introduction/?utm_source=project-based-learning)
+  - [Part 7 - The Repository pattern in Go: a painless way to simplify your service logic](https://threedots.tech/post/repository-pattern-in-go/?utm_source=project-based-learning)
+  - [Part 7 - 4 practical principles of high-quality database integration tests in Go](https://threedots.tech/post/database-integration-testing/?utm_source=project-based-learning)
+  - [Part 8 - How to implement Clean Architecture in Go](https://threedots.tech/post/introducing-clean-architecture/?utm_source=project-based-learning)
+  - [Part 9 - How to use basic CQRS in Go](https://threedots.tech/post/basic-cqrs-in-go/?utm_source=project-based-learning)
+  - [Part 10 - Combining DDD, CQRS, and Clean Architecture in Go](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/?utm_source=project-based-learning)
+  - [Part 11 - Microservices test architecture. Can you sleep well without end-to-end tests?](https://threedots.tech/post/microservices-test-architecture/?utm_source=project-based-learning)
+  - [Part 12 - Repository secure by design: how to sleep better without fear of security vulnerabilities](https://threedots.tech/post/repository-secure-by-design/?utm_source=project-based-learning)
+  - [Part 13 - Running integration tests with docker-compose in Google Cloud Build](https://threedots.tech/post/running-integration-tests-on-google-cloud-build/?utm_source=project-based-learning)
+- [Building Microservices with Go (video playlist)](https://www.youtube.com/watch?v=VzBGi_n65iU&list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_)
+- [Recreating the Linux 'Which' Command in Go](https://aubiss.com/posts/recreating-which-command-in-go/)
 
 ## PHP:
 
@@ -652,6 +717,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build Web Apps with Shiny](http://shiny.rstudio.com/tutorial/)
 - [Build A Cryptocurrency Bot](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
 - [Learn Associate Rule Mining in R](https://towardsdatascience.com/association-rule-mining-in-r-ddf2d044ae50)
+- [Make a Linear regression in R](https://www.scribbr.com/statistics/linear-regression-in-r/)
 
 ## Rust:
 
@@ -674,11 +740,19 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 2](https://pwy.io/en/posts/learning-to-fly-pt2/)
   - [Part 3](https://pwy.io/en/posts/learning-to-fly-pt3/)
   - [Part 4](https://pwy.io/en/posts/learning-to-fly-pt4/)
+- [Write a Toy VPN in Rust](https://write.yiransheng.com/vpn)
+- [Implementing BitTorrent in Rust](https://www.youtube.com/watch?v=fhEHBQog-Cc&t=6606s&ab_channel=JonGjengset)
 
 ## Scala:
 
 - [Simple actor-based blockchain](https://www.freecodecamp.org/news/how-to-build-a-simple-actor-based-blockchain-aac1e996c177/)
 - [No Magic: Regular Expressions](https://rcoh.svbtle.com/no-magic-regular-expressions)
+
+## SQL
+
+- [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/)
+- [Introduction to Databases and SQL querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/)
+- [Advanced SQL Databases and SQL querying](https://www.udemy.com/course/advanced-tsql-querying-using-sql-2014/)
 
 ## Swift:
 
@@ -701,3 +775,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [CodeCrafters](https://codecrafters.io/)
 - [Documentation](https://devdocs.io/)
 - [Full Stack Open](https://fullstackopen.com/en)
+- [Cyberclopaedia](https://cr0mll.github.io/cyberclopaedia/Cyberclopaedia/index.html)
+- [Programiz PRO](https://programiz.pro/)
+- [Ankur Tyagi's Blog](https://theankurtyagi.com/)
+- [Coding Challanges Newsletter](https://codingchallenges.substack.com/)
