@@ -53,7 +53,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## C/C++:
 
-- [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 14 on is written in C)
+- [Build an Interpreter](https://web.archive.org/web/20210110010628/http://www.craftinginterpreters.com/) (Chapter 14 on is written in C)
 - [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
 - [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 - [Write a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
@@ -94,7 +94,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 9: Functions](https://norasandler.com/2018/06/27/Write-a-Compiler-9.html)
   - [Part 10: Global Variables](https://norasandler.com/2019/02/18/Write-a-Compiler-10.html)
 - [Implementing a Language with LLVM](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
-- [Meta Crush Saga: a C++17 compile-time game](https://jguegant.github.io//jguegant.github.io/blogs/tech/meta-crush-saga.html)
+- [Meta Crush Saga: a C++17 compile-time game](https://jguegant.github.io/blogs/tech/meta-crush-saga.html#meta-crush-saga)
 - [High-Performance Matrix Multiplication](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0)
 - Space Invaders from Scratch:
   - [Part 1](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
@@ -177,8 +177,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Learn C# By Building a Simple RPG Game](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
 - [Create a Rogue-like game in C#](https://roguesharp.wordpress.com/)
-- [Create a Blank App with C# and Xamarin (work in progress)](https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/)
-- [Build iOS Photo Library App with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)
+- [Create a Blank App with C# and Xamarin (work in progress)](https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/) (Deprecated)
+- [Build iOS Photo Library App with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio) (Deprecated)
 - [Building the CoreWiki](https://www.youtube.com/playlist?list=PLVMqA0_8O85yC78I4Xj7z48ES48IQBa7p) This is a Wiki-style content management system that has been completely written in C# with ASP.NET Core and Razor Pages. You can find the source code [here](https://github.com/csharpfritz/CoreWiki).
 
 ## Clojure:
@@ -217,7 +217,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## Erlang
 
 - [ChatBus : build your first multi-user chat room app with Erlang/OTP](https://medium.com/@kansi/chatbus-build-your-first-multi-user-chat-room-app-with-erlang-otp-b55f72064901)
-- [Making a Chat App with Erlang, Rebar, Cowboy and Bullet](http://marianoguerra.org/posts/making-a-chat-app-with-erlang-rebar-cowboy-and-bullet.html)
+- [Making a Chat App with Erlang, Rebar, Cowboy and Bullet](https://web.archive.org/web/20240523151250/https://marianoguerra.org/posts/making-a-chat-app-with-erlang-rebar-cowboy-and-bullet.html)
 
 ## F#:
 
@@ -225,7 +225,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Java:
 
-- [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 4-13 is written in Java)
+- [Build an Interpreter](https://web.archive.org/web/20210110010628/http://www.craftinginterpreters.com/) (Chapter 4-13 is written in Java)
 - [Build a Simple HTTP Server with Java](http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html)
 - [Build an Android Flashlight App](https://www.youtube.com/watch?v=dhWL4DC7Krs) (video)
 - [Build a Spring Boot App with User Authentication](https://spring.io/guides/gs/securing-web/)
@@ -233,14 +233,12 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Fetch data using MySQL](https://spring.io/guides/gs/accessing-data-mysql)
 - [Code a 2D Game Engine using Java - Full Course for Beginners](https://www.youtube.com/watch?v=025QFeZfeyM)
 - [Build a simple form submission](https://spring.io/guides/gs/handling-form-submission)
-- [Fetch data using MySQL](https://spring.io/guides/gs/accessing-data-mysql)
 
 ## JavaScript:
 
 - [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
-- [Build an App in Pure JS](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
-- [Build a Jupyter Notebook Extension](https://link.medium.com/wWUO7TN8SS)
-- [Build a TicTacToe Game with JavaScript](https://medium.com/javascript-in-plain-english/build-tic-tac-toe-game-using-javascript-3afba3c8fdcc)
+- [Build an App in Pure JS](https://web.archive.org/web/20230329010417/https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
+- [Build a TicTacToe Game with JavaScript](https://web.archive.org/web/20200726074038/ttps://medium.com/javascript-in-plain-english/build-tic-tac-toe-game-using-javascript-3afba3c8fdcc)
 - [Build a Simple Weather App With Vanilla JavaScript](https://webdesign.tutsplus.com/tutorials/build-a-simple-weather-app-with-vanilla-javascript--cms-33893)
 - [Build a Todo List App in JavaScript](https://github.com/dwyl/javascript-todo-list-tutorial)
 - [Build a portfolio website with Javascript, HTML and CSS](https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/)
@@ -274,7 +272,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Create Serverless React.js Apps](http://serverless-stack.com/)
 - [Create a Spotify clone](https://github.com/kashan16/Musique)
 - [Create a Trello Clone](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
-- [Create a Character Voting App with React, Node, MongoDB and SocketIO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio)
+- [Create a Character Voting App with React, Node, MongoDB and SocketIO](https://web.archive.org/web/20230205102548/http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
 - [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
 - [Build a Full Stack Movie Voting App with Test-First Development using Mocha, React, Redux and Immutable](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 - [Build a Twitter Stream with React and Node](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
@@ -306,11 +304,11 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 #### Angular:
 
-- [Build an Instagram Clone with Angular 1.x](https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/)
+- [Build an Instagram Clone with Angular 1.x](https://web.archive.org/web/20160304055405/https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/)
 - Build an offline-capable Hacker News client with Angular 2+:
   - [Part 1](https://houssein.me/angular2-hacker-news)
   - [Part 2](https://houssein.me/progressive-angular-applications)
-- [Build a Google+ clone with Django and AngularJS (Angular 1.x)](https://thinkster.io/django-angularjs-tutorial)
+- [Build a Google+ clone with Django and AngularJS (Angular 1.x)](https://web.archive.org/web/20150316003128/https://thinkster.io/django-angularjs-tutorial/)
 - Build A Beautiful Real World App with Angular 8:
   - [Part I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
   - [Part II](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-8-the-ultimate-guide-2019-part-ii-fe70852b2d6d)
@@ -327,12 +325,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 1](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
   - [Part 2](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d)
 - [Build A Simple Search Bot in 30 minutes](https://medium.freecodecamp.org/how-to-build-a-simple-search-bot-in-30-minutes-eb56fcedcdb1)
-- [Build A Job Scraping Web App](https://medium.freecodecamp.org/how-i-built-a-job-scraping-web-app-using-node-js-and-indreed-7fbba124bbdc)
 - [Building a GitHub App](https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html)
 - How to build your own Uber-for-X App using JavaScript, Node.JS, MongoDB and Web Sockets:
   - [Part 1](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app/)
   - [Part 2](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app-part-2/)
-- [Build a UserService with Microservice architecture using Node, Express framework and Mongodb database]
 
 #### Vue
 
@@ -364,8 +360,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - [Make 2D Breakout Game using Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
 - Make Flappy Bird in HTML5 and JavaScript with Phaser:
-  - [Part 1](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
-  - [Part 2](http://www.lessmilk.com/tutorial/flappy-bird-phaser-2)
+  - [Part 1](https://web.archive.org/web/20211120031904/http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
+  - [Part 2](https://web.archive.org/web/20211120031904/http://www.lessmilk.com/tutorial/flappy-bird-phaser-2)
+- [Make a game in HTML and JavaScript with Phaser](https://web.archive.org/web/20210724033200/https://www.lesscake.com/phaser-game-tutorial)
 
 ### Desktop Application:
 
