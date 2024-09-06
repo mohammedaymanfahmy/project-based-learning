@@ -572,8 +572,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a Simple Blockchain in Python](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 - [Write a NoSQL Database in Python](https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/)
 - [Building a Gas Pump Scanner with OpenCV/Python/iOS](https://hackernoon.com/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b)
-- [Build a Distributed Streaming System with Python and Kafka](https://codequs.com/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python)
-- [Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/)
+- [Build a Distributed Streaming System with Python and Kafka](https://web.archive.org/web/20230519103533/https://codequs.com/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python)
+- [Writing a basic x86-64 JIT compiler from scratch in stock Python](https://web.archive.org/web/20220826224628/https://csl.name/post/python-jit/)
 - Making a low level (Linux) debugger:
   - [Part 1](https://blog.asrpo.com/making_a_low_level_debugger)
   - [Part 2: C](https://blog.asrpo.com/making_a_low_level_debugger_part_2)
@@ -697,7 +697,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Haskell:
 
-- [Write You a Haskell - Build a modern functional compiler](http://dev.stephendiehl.com/fun/)
+- [Write You a Haskell - Build a modern functional compiler](https://web.archive.org/web/20220510095259/http://dev.stephendiehl.com/fun/)
 - [Write Yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 - [Write You A Scheme, Version 2](https://github.com/write-you-a-scheme-v2/scheme)
 - [Roll Your Own IRC Bot](https://wiki.haskell.org/Roll_your_own_IRC_bot)
@@ -707,7 +707,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 ## R:
 
 - [Build Web Apps with Shiny](http://shiny.rstudio.com/tutorial/)
-- [Build A Cryptocurrency Bot](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
+- [Build A Cryptocurrency Bot](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1) (Deprecated)
 - [Learn Associate Rule Mining in R](https://towardsdatascience.com/association-rule-mining-in-r-ddf2d044ae50)
 - [Make a Linear regression in R](https://www.scribbr.com/statistics/linear-regression-in-r/)
 
